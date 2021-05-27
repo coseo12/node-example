@@ -7,14 +7,4 @@
 
 ## Chapter
 
-1. NODE
-
-   1-1. Global
-
-   1-2. Console
-
-   1-3. This
-
-2. NPM
-
-   2-1. NN
+1. Global
