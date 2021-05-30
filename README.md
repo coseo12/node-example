@@ -17,5 +17,6 @@
 7. Process
 8. Timer
 9. Path
-10. file
-11. buffer
+10. File
+11. Buffer
+12. Stream
