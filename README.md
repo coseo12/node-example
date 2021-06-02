@@ -25,3 +25,17 @@
 ## NPM
 
 Node Package Manager
+
+- [NPM 명령어](https://docs.npmjs.com/cli/v7/commands)
+
+라이센스 관련 사이트
+
+- [https://spdx.org/licenses/](https://spdx.org/licenses/)
+
+- [https://www.olis.or.kr/license/Detailselect.do?lType=spdx&lId=1074](https://www.olis.or.kr/license/Detailselect.do?lType=spdx&lId=1074)
+
+라이브러리 버전관리
+
+- [https://docs.npmjs.com/about-semantic-versioning](https://docs.npmjs.com/about-semantic-versioning)
+
+- [https://semver.npmjs.com/](https://semver.npmjs.com/)
