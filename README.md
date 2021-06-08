@@ -4,7 +4,7 @@
 
 - [노드 공식 사이트](https://nodejs.org/en/docs/)
 
-## Modules Example
+## Node
 
 - [노드 입문자를 위한 심플한 사이트](https://nodejs.dev/learn)
 
@@ -12,7 +12,7 @@
 2. Console
 3. This
 4. Module (export, require)
-5. Module (export, import)z
+5. Module (export, import)
 6. OS
 7. Process
 8. Timer
@@ -39,3 +39,11 @@ Node Package Manager
 - [https://docs.npmjs.com/about-semantic-versioning](https://docs.npmjs.com/about-semantic-versioning)
 
 - [https://semver.npmjs.com/](https://semver.npmjs.com/)
+
+명령어
+
+- install(i, add): 설치
+- uninstall(un): 삭제
+- update: 버전 업데이트
+- outdated: 업데이트 가능 버전 목록
+- ll: 목록
