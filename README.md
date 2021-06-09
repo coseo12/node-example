@@ -40,7 +40,7 @@ Node Package Manager
 
 - [https://semver.npmjs.com/](https://semver.npmjs.com/)
 
-명령어
+자주 쓰는 명령어
 
 - install(i, add): 설치
 - uninstall(un): 삭제
