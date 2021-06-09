@@ -53,3 +53,17 @@ Node Package Manager
 - [x] 사용자가 원하는 폴더의 이름을 받아온다.
 - [x] 그 폴더안에 video, captured, duplicated 폴더 생성
 - [x] 폴더 안에 있는 파일들을 다 돌면서 해당하는 mp4|mov, png|aae, IMG_1234 (IMG_E1234)
+
+## HTTP/HTTPS
+
+- [MDN HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP)
+
+- [MDN HTTPS](https://developer.mozilla.org/ko/docs/Glossary/https)
+
+- [MDN STATUS CODE](https://developer.mozilla.org/ko/docs/Web/HTTP/Status)
+
+- [MDN HTTP METHODS](https://developer.mozilla.org/ko/docs/Web/HTTP/Methods)
+
+- [MDN IDEMPOTENT](https://developer.mozilla.org/ko/docs/Glossary/Idempotent)
+
+- [MDN HTTP HEADERS](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
