@@ -70,6 +70,8 @@ Node Package Manager
 
 ## NODE SERVER
 
-1. Http
-2. Template(ejs)
+1. Http(HTML)
+2. Template(EJS)
 3. Json
+
+## Restful APIs
