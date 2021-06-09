@@ -47,3 +47,9 @@ Node Package Manager
 - update: 버전 업데이트
 - outdated: 업데이트 가능 버전 목록
 - ll: 목록
+
+## 파일정리 스크립트 만들기 ( Photo )
+
+- [x] 사용자가 원하는 폴더의 이름을 받아온다.
+- [x] 그 폴더안에 video, captured, duplicated 폴더 생성
+- [x] 폴더 안에 있는 파일들을 다 돌면서 해당하는 mp4|mov, png|aae, IMG_1234 (IMG_E1234)
