@@ -67,3 +67,9 @@ Node Package Manager
 - [MDN IDEMPOTENT](https://developer.mozilla.org/ko/docs/Glossary/Idempotent)
 
 - [MDN HTTP HEADERS](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
+
+## NODE SERVER
+
+1. Http
+2. Template(ejs)
+3. Json
