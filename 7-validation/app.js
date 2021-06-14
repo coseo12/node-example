@@ -16,11 +16,13 @@ app.post(
   '/users',
   [
     body('name')
+      .trim()
       .notEmpty()
       .withMessage('이름 필수')
       .isLength({ min: 2, max: 10 })
       .withMessage('이름은 두글자 이상!'),
     body('age').notEmpty().isInt().withMessage(`숫자`),
+    body('email').isEmail().withMessage(`email!!!`).normalizeEmail(),
     validate,
   ],
   (req, res, next) => {
