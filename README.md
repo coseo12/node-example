@@ -85,3 +85,7 @@ Node Package Manager
 ## Express
 
 - [API 문서](https://expressjs.com/en/4x/api.html)
+
+## Validation
+
+- [express-validator](https://www.npmjs.com/package/express-validator)
