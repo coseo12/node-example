@@ -91,3 +91,11 @@ Node Package Manager
 - [express-validator](https://www.npmjs.com/package/express-validator)
 
 - Sanitization
+
+## Auth
+
+- bcrypt
+
+- [Salt 길이별 성능 측정](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+
+- [JWT](https://jwt.io/)
